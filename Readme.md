@@ -1,5 +1,8 @@
 # Test VSCode Markdown preview / WebView
 
+Open this repository in VSCode and open the Markdown preview for this file.
+The first two images will show up, but the third won't :-(
+
 You should see a remote image here:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg/320px-Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg)
